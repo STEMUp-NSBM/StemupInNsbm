@@ -1,0 +1,42 @@
+.container {
+  position: relative;
+}
+
+.hero-blog {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../images/blog-cover.png) center no-repeat;
+  background-size: cover;
+  height: 60vh;
+  position: relative;
+}
+
+.hero-blog-content {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: var(--clr-white);
+}
+.hero-blog-content h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 56px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.hero-blog-content .home {
+  color: var(--clr-white);
+}
+
+.hero-blog-content .home:hover {
+  color: var(--clr-primary);
+  cursor: pointer;
+}
+.hero-blog-content span {
+  color: var(--clr-primary);
+}
+.hero-blog-content p {
+  font-size: 25px;
+}
