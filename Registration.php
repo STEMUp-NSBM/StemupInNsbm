@@ -1,4 +1,5 @@
 <?php include 'includes/header.php'; ?>
+<header>Registration</header>
     <div class="container">
         <form action="##">
             <div class="form first">

@@ -4,10 +4,7 @@
     max-width: 900px;
     width: 100%;
     border-radius: 6px;
-    padding: 30px;
-    margin: 0 15px;
-    background-color: var(--clr-white);
-    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    background-color:#fff;
   }
   .container header {
     font-size: 24px;
@@ -31,7 +28,7 @@
   .container form{
     position: relative;
     min-height: 490px;
-    margin-top:16px ;
+    margin-top: 90px ;
     padding: 20px;   
     background-color: #fff;
   }
