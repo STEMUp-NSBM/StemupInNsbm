@@ -49,6 +49,10 @@ a {
   text-decoration: none !important;
 }
 
+p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
 /* Make images easier to work with */
 img,
 picture,
@@ -104,6 +108,48 @@ body {
 .button-primary:hover {
   background-color: var(--clr-secondary);
   color: var(--clr-white);
+}
+.button-secondary {
+  background-color: var(--clr-white);
+  color: var(--clr-secondary);
+}
+.button-secondary:hover {
+  background-color: var(--clr-secondary);
+  color: var(--clr-white);
+}
+
+header {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../images/header.jpg) center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+
+.hero-text-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: var(--clr-white);
+}
+.hero-text-box h1 {
+  font-size: 56px;
+}
+.hero-links {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 860px) {
+  .hero-text-box {
+    left: 0;
+    transform: translate(0, -50%);
+  }
 }
 
 /* Navbar */
@@ -162,6 +208,7 @@ nav {
   gap: 20px;
   padding: 20px;
   transform: translateX(-100%);
+  z-index: 2;
 }
 .mobile-nav.active {
   transform: translateX(0);
