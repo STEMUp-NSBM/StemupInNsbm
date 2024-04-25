@@ -75,14 +75,61 @@
          </p>
        </div>
     </a>
+    </div>
    </div>
-  </div>
 
   <div class="text-center">
    <a href="#" class="button button-primary">View all events</a>
   </div>
  </div>
 
+</section>
+
+<section class="branch-counsellors-section">
+ <div class="container">
+  <div class="counsellor-wrapper">
+   <div class="counsellor-text">
+     <h1>Student Branch Counsellors</h1>
+   </div>
+   <div class="counsellor-members">
+    <div class="row">
+     <div class="col-md-6 mb-5">
+      <div class="counsellor-card">
+       <div class="counsellor-image">
+        <img src="assets/images/counsellor.jpg" alt="Counsellor 1">
+       </div>
+       <div class="counsellor-info">
+        <h3>John Doe</h3>
+        <p>President</p>
+       </div>
+      </div>
+     </div>
+     <div class="col-md-6 mb-5">
+      <div class="counsellor-card">
+       <div class="counsellor-image">
+        <img src="assets/images/counsellor.jpg" alt="Counsellor 1">
+       </div>
+       <div class="counsellor-info">
+        <h3>John Doe</h3>
+        <p>President</p>
+       </div>
+      </div>
+     </div>
+     <div class="col-md-6 mb-5">
+      <div class="counsellor-card">
+       <div class="counsellor-image">
+        <img src="assets/images/counsellor.jpg" alt="Counsellor 1">
+       </div>
+       <div class="counsellor-info">
+        <h3>John Doe</h3>
+        <p>President</p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
 </section>
 
 
