@@ -21,85 +21,111 @@
         <div class="row">
             <div class="col-8">
                 <div class="row mt-5">
-                    <div class="col-md-4 mb-5">
-                     <a href="" class="card">
-                        <div class="card-top">
-                         <img src="assets/images/microbit.png" class="card__image" alt="" />
-                        </div>
-                        <div class="card__overlay">
-                          <div class="card__header">
-                            <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
-                            <div class="card__header-text">
-                              <h3 class="card__title">Micro:bit SLUG</h3>            
+                    <div class="col">
+                        <div class="blog-card">
+                            <div class="blog-card-top">
+                                <img src="assets/images/blog-card1.jpg">
                             </div>
-                          </div>
-                          <p class="card__description">Micro:bit Sri Lanka from its initiation has strived to empower the community by teaching kids programming using Micro:bit devices.
-                          </p>
+                            <div class="blog-card-content">
+                                <div class="blog-card-header">
+                                    <div class="blog-date">
+                                        <p><i class="fa-solid fa-calendar-days"></i> 4/24/2024</p>
+                                    </div>
+                                    <div class="blog-category">
+                                        <p><i class="fa-solid fa-tag"></i> News</p>
+                                    </div>
+                                </div>
+                                <h3><a hrref="#">Micro:bit Version 2 goes live in Sri Lanka</a></h3>
+                                <p>What would you say if I told you that the BBC made a 
+                                    computer? Well, that’s exactly what they did with the 
+                                    BBC Micro:bit. It’s a single board microcontroller, 
+                                    which can be used to teach anyone, especi
+                                </p>
+                                <a href="#">Read More...</a>
+                            </div>
                         </div>
-                     </a>
                     </div>
 
-                    <div class="col-md-4 mb-5">
-                     <a href="" class="card">
-                        <div class="card-top">
-                         <img src="assets/images/microbit.png" class="card__image" alt="" />
-                        </div>
-                        <div class="card__overlay">
-                          <div class="card__header">
-                            <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
-                            <div class="card__header-text">
-                              <h3 class="card__title">Micro:bit SLUG</h3>            
+                    <div class="col">
+                        <div class="blog-card">
+                            <div class="blog-card-top">
+                                <img src="assets/images/blog-card1.jpg">
                             </div>
-                          </div>
-                          <p class="card__description">Micro:bit Sri Lanka from its initiation has strived to empower the community by teaching kids programming using Micro:bit devices.
-                          </p>
+                            <div class="blog-card-content">
+                                <div class="blog-card-header">
+                                    <div class="blog-date">
+                                        <p><i class="fa-solid fa-calendar-days"></i> 4/24/2024</p>
+                                    </div>
+                                    <div class="blog-category">
+                                        <p><i class="fa-solid fa-tag"></i> News</p>
+                                    </div>
+                                </div>
+                                <h3><a hrref="#">Micro:bit Version 2 goes live in Sri Lanka</a></h3>
+                                <p>What would you say if I told you that the BBC made a 
+                                    computer? Well, that’s exactly what they did with the 
+                                    BBC Micro:bit. It’s a single board microcontroller, 
+                                    which can be used to teach anyone, especi
+                                </p>
+                                <a href="#">Read More...</a>
+                            </div>
                         </div>
-                     </a>
                     </div>
-
                 </div>
 
-                <!--Second row-->
                 <div class="row mt-5">
-                    <div class="col-md-4 mb-5">
-                     <a href="" class="card">
-                        <div class="card-top">
-                         <img src="assets/images/microbit.png" class="card__image" alt="" />
-                        </div>
-                        <div class="card__overlay">
-                          <div class="card__header">
-                            <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
-                            <div class="card__header-text">
-                              <h3 class="card__title">Micro:bit SLUG</h3>            
+                    <div class="col">
+                        <div class="blog-card">
+                            <div class="blog-card-top">
+                                <img src="assets/images/blog-card1.jpg">
                             </div>
-                          </div>
-                          <p class="card__description">Micro:bit Sri Lanka from its initiation has strived to empower the community by teaching kids programming using Micro:bit devices.
-                          </p>
+                            <div class="blog-card-content">
+                                <div class="blog-card-header">
+                                    <div class="blog-date">
+                                        <p><i class="fa-solid fa-calendar-days"></i> 4/24/2024</p>
+                                    </div>
+                                    <div class="blog-category">
+                                        <p><i class="fa-solid fa-tag"></i> News</p>
+                                    </div>
+                                </div>
+                                <h3><a hrref="#">Micro:bit Version 2 goes live in Sri Lanka</a></h3>
+                                <p>What would you say if I told you that the BBC made a 
+                                    computer? Well, that’s exactly what they did with the 
+                                    BBC Micro:bit. It’s a single board microcontroller, 
+                                    which can be used to teach anyone, especi
+                                </p>
+                                <a href="#">Read More...</a>
+                            </div>
                         </div>
-                     </a>
                     </div>
 
-                    <div class="col-md-4 mb-5">
-                     <a href="" class="card">
-                        <div class="card-top">
-                         <img src="assets/images/microbit.png" class="card__image" alt="" />
-                        </div>
-                        <div class="card__overlay">
-                          <div class="card__header">
-                            <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
-                            <div class="card__header-text">
-                              <h3 class="card__title">Micro:bit SLUG</h3>            
+                    <div class="col">
+                        <div class="blog-card">
+                            <div class="blog-card-top">
+                                <img src="assets/images/blog-card1.jpg">
                             </div>
-                          </div>
-                          <p class="card__description">Micro:bit Sri Lanka from its initiation has strived to empower the community by teaching kids programming using Micro:bit devices.
-                          </p>
+                            <div class="blog-card-content">
+                                <div class="blog-card-header">
+                                    <div class="blog-date">
+                                        <p><i class="fa-solid fa-calendar-days"></i> 4/24/2024</p>
+                                    </div>
+                                    <div class="blog-category">
+                                        <p><i class="fa-solid fa-tag"></i> News</p>
+                                    </div>
+                                </div>
+                                <h3><a hrref="#">Micro:bit Version 2 goes live in Sri Lanka</a></h3>
+                                <p>What would you say if I told you that the BBC made a 
+                                    computer? Well, that’s exactly what they did with the 
+                                    BBC Micro:bit. It’s a single board microcontroller, 
+                                    which can be used to teach anyone, especi
+                                </p>
+                                <a href="#">Read More...</a>
+                            </div>
                         </div>
-                     </a>
                     </div>
-
                 </div>
             </div>
-            <div class="col-sm-2">
+            
+            <div class="col-4">
                 Example
             </div>
         </div>
