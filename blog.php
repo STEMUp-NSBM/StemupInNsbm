@@ -12,4 +12,21 @@
     </div>
 </div>
 
+<section>
+    <div class="blog-post-title">
+        <h3>VIEW OUR BLOG</h3>
+        <h1>List of Posts</h1>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-8">
+                Example
+            </div>
+            <div class="col-sm-2">
+                Example
+            </div>
+        </div>
+    </div>
+</section>
+
 <?php include 'includes/footer.php'; ?>
