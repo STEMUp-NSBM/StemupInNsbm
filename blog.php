@@ -13,12 +13,14 @@
 </div>
 
 <!--Main Blog and Recent-->
+<!--
 <section id="blog-hero">
     <div class="container">
         <div class="row-gy-4">
-            <div class="col-lg-8">
+            <div class="col-lg-8"> -->
 
                 <!--Main Blog-->
+                <!--
                 <div class="blog-post feature-blog-lg">
                     <div class="blog-details clearfix">
                         <a href="#" class="category-badge">News</a>
@@ -43,7 +45,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section>
     <div class="blog-post-title">
