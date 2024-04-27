@@ -12,6 +12,39 @@
     </div>
 </div>
 
+<!--Main Blog and Recent-->
+<section id="blog-hero">
+    <div class="container">
+        <div class="row-gy-4">
+            <div class="col-lg-8">
+
+                <!--Main Blog-->
+                <div class="blog-post feature-blog-lg">
+                    <div class="blog-details clearfix">
+                        <a href="#" class="category-badge">News</a>
+                        <h2 class="blog-main-title">
+                            <a href="#" >STEMUp Educational Foundation expands advisory board</a>
+                        </h2>
+                        <ul class="meta list-inline mb-0">
+                            <li class="list-inline-item">
+                                <p>Kaveeshe Waduge</p>
+                            </li>
+                            <li class="list-inline-item">
+                                <p>26/04/2024</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <a href="#">
+                        <div class="thumb rounded">
+                            <div class="inner data-bg-image" data-bg-image="./assets/images/header.jpg"></div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section>
     <div class="blog-post-title">
         <h3>VIEW OUR BLOG</h3>
