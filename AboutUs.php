@@ -44,6 +44,10 @@
         </div>
         </div>
         </section>
+  <section class="events-section">  
+    <h2> VISION</h2>
+    <p class="mb-3">To ignite a passion for Science, Technology, Engineering, and Mathematics among students, fostering a future where innovation thrives and every mind is empowered to shape a brighter tomorrow.</p>
+  </section>
 
         <section class="volunteer-section">
          <div class="container">
