@@ -1,5 +1,5 @@
 
-.container{
+/*.container{
     position: relative;
     max-width: 900px;
     width: 100%;
@@ -24,7 +24,7 @@
     border-radius: 10px;
     background-color: var(--clr-primary);
     border-radius: 6px;
-  }
+  }*/
   .container form{
     position: relative;
     min-height: 490px;
@@ -75,6 +75,23 @@
     height: 42px;
     margin: 8px 0;
   }
+  .input-field-checkbox label {
+    font-size: 12px;
+    font-weight: 500;
+    color: #2e2e2e;
+  }
+  .input-field-checkbox input {
+    outline:none ;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    padding: 0 15px;
+    margin: 15px 0;
+    margin-right: 50px;
+  }
+
   .input-field input:is(:focus, :valid){
     box-shadow: 0 3px 6px rgba(0,0,0,0.13) ;
 
@@ -86,3 +103,22 @@
   .input-field input[type="date"]:valid{
     color: #333;
   }
+  .infield-signIn button{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: 1px solid #f2f1ef;
+    background: #f7c33f;
+    color: #0e0d0d;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 9px 170px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    align-items: center;
+    left: 35%;
+    bottom: 0;
+    transform: translate(50% 0);
+  }
+   

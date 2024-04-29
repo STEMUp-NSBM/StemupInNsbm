@@ -1,5 +1,4 @@
 <?php include 'includes/header.php'; ?>
-<header>Registration</header>
     <div class="container">
         <form action="##">
             <div class="form first">
@@ -7,39 +6,43 @@
                     <span class="title">Personal details</span>
 
                     <div class="fields">
-                        <div class="input-field">
-                            <label for="">Full Name</label>
-                            <input type="text" placeholder="Enter Your Name" required>
-                        </div>
+                      <div class="input-field">
+                          <label for="">Full Name</label>
+                          <input type="text" placeholder="Enter Your Name" required>
+                      </div>
 
-                        <div class="input-field">
-                          <label for="">Date of Birth</label>
-                          <input type="date" placeholder="Enter Your date of Birth" required>
+                      <div class="input-field">
+                        <label for="">Date of Birth</label>
+                        <input type="date" placeholder="Enter Your date of Birth" required>
                       </div>
 
                       <div class="input-field">
                         <label for="">Emaill</label>
                         <input type="email" placeholder="Enter Your Emaill" required>
+                      </div>
+
+                      <div class="input-field">
+                        <label for="">Mobile Number</label>
+                        <input type="number" placeholder="Enter Your Mobile Number " required>
+                      </div>
+                      <div class="input-field-checkbox">
+                        <label for="">Gender</label>
+                        <table class="Checkbox">
+                          <tr>
+                            <td>Male <input type="checkbox" id="Male" name="Male" value="male"></td>
+                            <td>Female <input type="checkbox" id="Female" name="Female" value="Female"></td>
+                            <td>Other <input type="checkbox" id="Other" name="Other" value="Other"></td>
+                          </tr>
+                        </table>
+                      </div>
+                      <div class="input-field">
+                      <label for="">NIC</label>
+                      <input type="number" placeholder="Enter Your NIC Number " required>
+                      </div>
+
+
                     </div>
-
-                    <div class="input-field">
-                      <label for="">Mobile Number</label>
-                      <input type="number" placeholder="Enter Your Mobile Number " required>
                   </div>
-
-                  <div class="input-field">
-                    <label for="">Gender</label>
-                    <input type="date" placeholder="Enter Your Gender" required>
-                  </div>
-
-                  <div class="input-field">
-                  <label for="">Occupation</label>
-                  <input type="email" placeholder="Enter Your Occupation " required>
-                  </div>
-
-
-                </div>
-              </div>
 
 
               <div class="details ID">
@@ -52,37 +55,37 @@
                     </div>
 
                     <div class="input-field">
-                      <label for="">Student ID</label>
-                      <input type="number" placeholder="Enter Your Student card ID" required>
+                      <label for="">Date of Birth</label>
+                      <input type="date" placeholder="Enter Your date of Birth" required>
                   </div>
 
                   <div class="input-field">
-                    <label for="">Batch</label>
-                    <select id="Batch-id" name="Batch">
-                      <option value="1">22.1</option>
-                      <option value="1">22.2</option>
-                      <option value="1">23.1</option>
-                      <option value="1">23.2</option>
-                      <option value="1">24.1</option>
-                    </select>
+                    <label for="">Emaill</label>
+                    <input type="email" placeholder="Enter Your Emaill" required>
                 </div>
 
                 <div class="input-field">
+                  <label for="">Mobile Number</label>
+                  <input type="number" placeholder="Enter Your Mobile Number " required>
+              </div>
+
+                  
+
+                
+
+              <div class="input-field">
+                <label for="">Degree Programe</label>
+                <input type="text" placeholder="Enter Your Degree Programe" required>
+              </div>
+              
+              <div class="input-field">
                   <label for="">Volunteer Experions</label>
                   <textarea id="Experions" name="Experions" rows="4" cols="50"></textarea>
               </div>
 
-              <div class="input-field">
-                <label for="">Gender</label>
-                <input type="date" placeholder="Enter Your Gender" required>
-              </div>
-
-              <div class="input-field">
-              <label for="">Occupation</label>
-              <input type="email" placeholder="Enter Your Occupation " required>
-              </div>
-
-
+            </div>
+            <div class="infield-signIn">
+                    <button>Submit</button>
             </div>
           </div>
             </div>
