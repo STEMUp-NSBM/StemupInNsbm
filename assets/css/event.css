@@ -40,3 +40,32 @@
 .hero-event-content p {
   font-size: 18px;
 }
+
+/*Blog Post*/
+.event-post-title {
+  position: relative;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.event-post-title:after {
+  content: "";
+  width: 100px;
+  height: 5px;
+  background: var(--clr-primary);
+  position: absolute;
+  bottom: -20px;
+  left: 47%;
+  transition-duration: 0.25s;
+}
+
+.event-post-title h3 {
+  color: var(--clr-primary);
+  letter-spacing: 2px;
+}
+
+.event-post-title h1 {
+  font-weight: 700;
+  letter-spacing: 5px;
+  font-size: 50px;
+}
