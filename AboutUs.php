@@ -43,6 +43,14 @@
   </div>
  </div>
 </section>
+
+<section class="volunteer-section">
+ <div class="container">
+  <h1>Be part of our community</h1>
+  <p>Join us in our mission to inspire and empower the next generation of innovators and problem solvers.</p>
+  <a href="#" class="button button-primary mt-3">Volunteer Form</a>
+ </div>
+</section>
  
 
 
