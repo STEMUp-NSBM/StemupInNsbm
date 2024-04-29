@@ -4,17 +4,17 @@
    <div class="nav-wrapper">
     <div class="logo">
      <a href="/">
-      <img src="assets/images/logo.png" alt="STEMUp-NSBM">
+      <img src="assets/images/STEMUp NSBM logo.png" alt="STEMUp-NSBM">
      </a>
     </div>
 
     <div class="main-list-wrapper">
      <ul class="main-list" role="list">
-      <li><a href="" >Home</a></li>
+      <li><a href="index.php" >Home</a></li>
       <li><a href="">About us</a></li>
       <li><a href="">Events</a></li>
-      <li><a href="">Members</a></li>
-      <li><a href="">Blog</a></li>
+      <li><a href="members.php">Members</a></li>
+      <li><a href="blog.php">Blog</a></li>
      </ul>
      <a href="#" class="button button-primary">Volunteer Form</a>
     </div>
@@ -28,7 +28,7 @@
  <div class="mobile-nav-top">
   <div class="top-wrapper">
             <div class="logo">
-                <img src="assets/images/logo.png" />
+                <img src="assets/images/stemup logo.png" />
             </div>
             
             <button class="mobile-nav-close" id="close-menu">

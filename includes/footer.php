@@ -4,7 +4,7 @@
    <div class="row">
     <div class="col-md-6">
      <div class="footer-logo">
-      <img src="assets/images/logo-white.png" alt="STEMUp-NSBM">
+      <img src="assets/images/STEMUp NSBM logo.png" alt="STEMUp-NSBM">
      </div>
      <div class="mt-3">
       <img src="assets/images/logo_nsbm.png" alt="NSBM">
