@@ -89,7 +89,18 @@
     border: 1px solid #aaa;
     padding: 0 15px;
     margin: 15px 0;
-    margin-right: 50px;
+    margin-right: 40px;
+  }
+  select{
+    outline:none ;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    padding: 0 15px;
+    height: 42px;
+    margin: 8px 0;
   }
 
   .input-field input:is(:focus, :valid){
