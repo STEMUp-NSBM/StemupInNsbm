@@ -4,7 +4,7 @@
    <div class="nav-wrapper">
     <div class="logo">
      <a href="/">
-      <img src="assets/images/stemuplogo.png" alt="STEMUp-NSBM">
+      <img src="assets/images/logo.png" alt="STEMUp-NSBM">
      </a>
     </div>
 
