@@ -53,21 +53,27 @@
                         <label for="">Student Name</label>
                         <input type="text" placeholder="Enter Your Name" required>
                     </div>
-
-                    <div class="input-field">
-                      <label for="">Date of Birth</label>
-                      <input type="date" placeholder="Enter Your date of Birth" required>
-                  </div>
-
+                  
+                   <div class="input-field">
+                    <label for="">batch</label>
+                      <select id="Batch" name="batch" required>
+                       <option value="1">22.1</option>
+                       <option value="2">22.2</option>
+                       <option value="3">23.1</option>
+                       <option value="4">23.2</option>
+                       <option value="5">24.1</option>
+                      </select>
+                   </div> 
+                  
                   <div class="input-field">
                     <label for="">Emaill</label>
                     <input type="email" placeholder="Enter Your Emaill" required>
-                </div>
+                  </div>
 
                 <div class="input-field">
                   <label for="">Mobile Number</label>
                   <input type="number" placeholder="Enter Your Mobile Number " required>
-              </div>
+                </div>
 
                   
 
