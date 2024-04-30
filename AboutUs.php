@@ -36,7 +36,7 @@
              <img src="assets/images/about.jpg" alt="About Us">
             </div>
           <div class="about-text">
-            <h2>About Us</h2>
+            <h1>About Us</h1>
             <h1>We Believe in Change</h1>
             <p class="mb-3">STEMUp-NSBM is a student-led organization that aims to promote STEM education among the youth in Sri Lanka. We believe that STEM literacy is a foundation skill that matters for all careers. STEM builds critical thinking abilities, creativity and collaboration skills. Our mission is to inspire and empower the next generation of innovators and problem solvers.</p>
             <a href="#" class="button button-primary">More about us</a>
@@ -45,7 +45,7 @@
         </div>
         </section>
   <section class="events-section">  
-    <h2> VISION</h2>
+    <h2> VISION </h2>
     <p class="mb-3">To ignite a passion for Science, Technology, Engineering, and Mathematics among students, fostering a future where innovation thrives and every mind is empowered to shape a brighter tomorrow.</p>
   </section>
 
@@ -56,8 +56,4 @@
           <a href="#" class="button button-primary mt-3">Volunteer Form</a>
          </div>
         </section>          
- 
-
-
-
 <?php include 'includes/footer.php';?>
