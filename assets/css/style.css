@@ -921,7 +921,7 @@ footer h2 {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 100vh;
+  height: 100%;
   background: #000;
   z-index: 10000;
   transition: all 1s ease-in-out;
